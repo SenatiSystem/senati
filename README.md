@@ -1,4 +1,4 @@
-# senati_ui
+# SENATI Documentary System UI
 
 ## Project setup
 ```
